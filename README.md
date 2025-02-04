@@ -1,5 +1,5 @@
 # 💫 About Me:
-Balancing .NET C# development, React animations, and hitting the gym every day! From building web apps to creating engaging Reels, I’m all about tech, creativity, and strength. 💡🔥<br><br>Also, thinking of diving into car content soon! 🚗💨 What do you think? Should I go for it? Let me know in the comments! 👇
+👋 About Me<br>Balancing .NET C# development, React animations, and hitting the gym every day! 💻🎨💪 I love building scalable web apps, crafting engaging UI/UX, and sharing tech content.<br><br>🚀 Tech + Creativity + Strength – that’s my thing!<br><br>🔹 Exploring Android development<br>🔹 Creating Reels & Shorts on React, HTML/CSS, and animations<br>🔹 Thinking of diving into car content soon! 🚗💨<br><br>💡 Always learning, building, and growing. Let’s connect!
 
 
 ## 🌐 Socials:
